@@ -1,0 +1,7 @@
+
+[serverConfig]
+	[serverConfig.parties]
+		enabled = false
+
+	[serverConfig.claims]
+		maxPlayerClaimForceloads = 500

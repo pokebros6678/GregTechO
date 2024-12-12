@@ -1,1 +1,1 @@
-# Modpack
+# GregTech Odyssey Modpack
