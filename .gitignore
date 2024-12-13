@@ -24,7 +24,7 @@ overrides/usernamecache.json
 overrides/*.jar
 overrides/*.json
 overrides/config/oculus.properties
-overrides/config/roughlyenoughitems/
+overrides/config/xaerominimap_entities.json
 overrides/kubejs/jsconfig.json
 overrides/kubejs/config/probejs.json
 overrides/kubejs/README.txt
@@ -34,4 +34,7 @@ overrides/defaultconfigs/ftbquests/
 overrides/defaultconfigs/ftbultimine/ftbultimine-client.snbt
 overrides/defaultconfigs/ftbxmodcompat/
 overrides/icon.png
+overrides/knownkeys.txt
+overrides/options.txt
+.idea/
 .DS_Store

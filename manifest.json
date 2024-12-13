@@ -92,13 +92,18 @@
             "required": true
         },
         {
-            "fileID": 5658224,
+            "fileID": 5987149,
             "projectID": 317780,
             "required": true
         },
         {
             "fileID": 5862235,
             "projectID": 263420,
+            "required": true
+        },
+        {
+            "fileID": 4680832,
+            "projectID": 635427,
             "required": true
         },
         {
@@ -109,6 +114,11 @@
         {
             "fileID": 5245376,
             "projectID": 996980,
+            "required": true
+        },
+        {
+            "fileID": 5947280,
+            "projectID": 1086241,
             "required": true
         },
         {
@@ -129,6 +139,11 @@
         {
             "fileID": 5137938,
             "projectID": 419699,
+            "required": true
+        },
+        {
+            "fileID": 5644976,
+            "projectID": 531761,
             "required": true
         },
         {
@@ -157,6 +172,11 @@
             "required": true
         },
         {
+            "fileID": 4635878,
+            "projectID": 232131,
+            "required": true
+        },
+        {
             "fileID": 5352230,
             "projectID": 908741,
             "required": true
@@ -174,6 +194,11 @@
         {
             "fileID": 4810975,
             "projectID": 429235,
+            "required": true
+        },
+        {
+            "fileID": 5478647,
+            "projectID": 271009,
             "required": true
         },
         {
@@ -217,7 +242,7 @@
             "required": true
         },
         {
-            "fileID": 5959058,
+            "fileID": 5985364,
             "projectID": 1104310,
             "required": true
         },
@@ -242,6 +267,11 @@
             "required": true
         },
         {
+            "fileID": 4583104,
+            "projectID": 241895,
+            "required": true
+        },
+        {
             "fileID": 5853326,
             "projectID": 238086,
             "required": true
@@ -262,7 +292,7 @@
             "required": true
         },
         {
-            "fileID": 5972258,
+            "fileID": 5986634,
             "projectID": 790626,
             "required": true
         },
@@ -322,6 +352,11 @@
             "required": true
         },
         {
+            "fileID": 5849456,
+            "projectID": 254268,
+            "required": true
+        },
+        {
             "fileID": 4903415,
             "projectID": 664224,
             "required": true
@@ -345,5 +380,5 @@
     },
     "name": "GregTech Odyssey",
     "overrides": "overrides",
-    "version": "0.1-alpha"
+    "version": "0.1-alpha.1"
 }
