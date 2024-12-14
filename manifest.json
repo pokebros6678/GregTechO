@@ -47,6 +47,11 @@
             "required": true
         },
         {
+            "fileID": 5959896,
+            "projectID": 686911,
+            "required": true
+        },
+        {
             "fileID": 5876199,
             "projectID": 324717,
             "required": true
@@ -132,7 +137,7 @@
             "required": true
         },
         {
-            "fileID": 5973834,
+            "fileID": 5989151,
             "projectID": 223794,
             "required": true
         },
@@ -229,11 +234,6 @@
         {
             "fileID": 5257897,
             "projectID": 889915,
-            "required": true
-        },
-        {
-            "fileID": 4884976,
-            "projectID": 882495,
             "required": true
         },
         {
@@ -380,5 +380,5 @@
     },
     "name": "GregTech Odyssey",
     "overrides": "overrides",
-    "version": "0.1-alpha.1"
+    "version": "0.1-alpha.2"
 }
