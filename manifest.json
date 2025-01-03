@@ -12,12 +12,12 @@
             "required": true
         },
         {
-            "fileID": 5981526,
+            "fileID": 6035212,
             "projectID": 64578,
             "required": true
         },
         {
-            "fileID": 5867594,
+            "fileID": 6036064,
             "projectID": 892005,
             "required": true
         },
@@ -102,7 +102,7 @@
             "required": true
         },
         {
-            "fileID": 5862235,
+            "fileID": 6012833,
             "projectID": 263420,
             "required": true
         },
@@ -137,7 +137,12 @@
             "required": true
         },
         {
-            "fileID": 5989151,
+            "fileID": 4721662,
+            "projectID": 548115,
+            "required": true
+        },
+        {
+            "fileID": 6014947,
             "projectID": 223794,
             "required": true
         },
@@ -147,7 +152,7 @@
             "required": true
         },
         {
-            "fileID": 5644976,
+            "fileID": 5999476,
             "projectID": 531761,
             "required": true
         },
@@ -212,7 +217,7 @@
             "required": true
         },
         {
-            "fileID": 5925398,
+            "fileID": 6016763,
             "projectID": 404465,
             "required": true
         },
@@ -232,17 +237,17 @@
             "required": true
         },
         {
-            "fileID": 5257897,
+            "fileID": 6046020,
             "projectID": 889915,
             "required": true
         },
         {
-            "fileID": 5935795,
+            "fileID": 6033631,
             "projectID": 890405,
             "required": true
         },
         {
-            "fileID": 5985364,
+            "fileID": 6015409,
             "projectID": 1104310,
             "required": true
         },
@@ -277,12 +282,7 @@
             "required": true
         },
         {
-            "fileID": 5927130,
-            "projectID": 626676,
-            "required": true
-        },
-        {
-            "fileID": 5826205,
+            "fileID": 6014535,
             "projectID": 1028068,
             "required": true
         },
@@ -292,8 +292,13 @@
             "required": true
         },
         {
-            "fileID": 5986634,
+            "fileID": 6025611,
             "projectID": 790626,
+            "required": true
+        },
+        {
+            "fileID": 5650506,
+            "projectID": 930207,
             "required": true
         },
         {
@@ -302,12 +307,12 @@
             "required": true
         },
         {
-            "fileID": 5299671,
+            "fileID": 6020952,
             "projectID": 581495,
             "required": true
         },
         {
-            "fileID": 5973806,
+            "fileID": 5992993,
             "projectID": 636608,
             "required": true
         },
@@ -342,12 +347,12 @@
             "required": true
         },
         {
-            "fileID": 5927505,
+            "fileID": 6040688,
             "projectID": 422301,
             "required": true
         },
         {
-            "fileID": 5977866,
+            "fileID": 6042889,
             "projectID": 618298,
             "required": true
         },
@@ -380,5 +385,5 @@
     },
     "name": "GregTech Odyssey",
     "overrides": "overrides",
-    "version": "0.1-alpha.2"
+    "version": "0.1-alpha.3"
 }

@@ -25,6 +25,7 @@ overrides/*.jar
 overrides/*.json
 overrides/config/oculus.properties
 overrides/config/xaerominimap_entities.json
+overrides/config/spark/
 overrides/kubejs/jsconfig.json
 overrides/kubejs/config/probejs.json
 overrides/kubejs/README.txt
